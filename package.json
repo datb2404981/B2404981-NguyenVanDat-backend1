@@ -1,0 +1,28 @@
+{
+  "name": "backend_1",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "Backend1",
+    "MEVN"
+  ],
+  "homepage": "https://github.com/datb2404981/B2404981-NguyenVanDat-backend1#readme",
+  "bugs": {
+    "url": "https://github.com/datb2404981/B2404981-NguyenVanDat-backend1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datb2404981/B2404981-NguyenVanDat-backend1.git"
+  },
+  "license": "ISC",
+  "author": "B2404981_NguyenVanDat",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "experss": "^0.0.1-security"
+  }
+}
